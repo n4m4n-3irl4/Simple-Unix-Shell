@@ -4,7 +4,7 @@
 ## Project Details
 The working of this project requires a LINUX based machine.
 
-Implementing Simple-Shell that waits for user input, executes commands provided in the user 
+Implementing a Simple-Shell that waits for user input, executes commands provided in the user 
 input,  and  then  repeats  until  terminated  using  Ctrl-C. This simpleshell can also read and execute bash script written in an external file. The shell executes simple linux commands. The simple shell also supports the ```history``` command and also displays the process details upon exitting.
 
 The shell CANNOT execute commands like ```cd``` , i.e. the commands whose executables are not present in the ```bin``` folder of the unix machine.
