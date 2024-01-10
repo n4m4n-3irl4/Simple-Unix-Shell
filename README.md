@@ -37,7 +37,7 @@ Naman Birla (n4m4n-3irl4):
 2.	Signal handling and printing additional details of each command
 3.	Error handling
 
-Pranav Bharadwaj:
+Pranav Bharadwaj (Pranav0305):
 1.	Commands without piping
 2.	Reading commands from an external file and history command
 3.	Error handling
