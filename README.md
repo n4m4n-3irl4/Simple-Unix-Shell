@@ -32,12 +32,12 @@ The executables created are internally cleaned when the program ends.
 ## Contributions
 The general overview of the contributions:
 
-Naman Birla (n4m4n-3irl4):
+[Naman Birla](https://github.com/n4m4n-3irl4)
 1.	Commands with piping
 2.	Signal handling and printing additional details of each command
 3.	Error handling
 
-Pranav Bharadwaj (Pranav0305):
+[Pranav Bharadwaj](https://github.com/Pranav0305):
 1.	Commands without piping
 2.	Reading commands from an external file and history command
 3.	Error handling
